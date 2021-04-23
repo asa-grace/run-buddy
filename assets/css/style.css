@@ -52,14 +52,14 @@ footer {
 
 footer h2 {
     display: inline;
-    color: #24e76;
     font-size: 30px;
-    margin: 0;
+    font-weight: bolder;
+    color: 024e76;
 }
 
 footer div {
     float: right;
-    line-height: 1.5;
+    line-height: 2.5;
     text-align: right;
 }
 
@@ -79,8 +79,6 @@ section {
     background-position: center;
     position: relative;
 }
-
-/* Hero Style End */ 
 
 .hero-form {
     border: 3px solid #024e76;
