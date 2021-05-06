@@ -1,24 +1,16 @@
+# Run Buddy, Inc
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 5b89bc207e762baeea6716bba95907565c0b3f81
 ## Purpose
-A website that offers fitness training services.
+A website that offers fitness training services. 
 
-## Built with 
-*HTML
-*CSS
+## Built With
+* HTML
+* CSS
 
 ## Website
-https://asa-grace.github.io/run-buddy/
+https://lernantino.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ Asa Grace
-<<<<<<< HEAD
+Made with ❤️ by [your name]
 
-### ©️2019 Run Buddy, Inc
-=======
->>>>>>> a1380461a11915d92baa4826ccacef9679559b7f
-=======
->>>>>>> 5b89bc207e762baeea6716bba95907565c0b3f81
+### ©️2019 Run Buddy, Inc 
