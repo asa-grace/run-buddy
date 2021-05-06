@@ -301,10 +301,11 @@ section {
     line-height: 1.5;
     font-size: 16px;
     font-style: normal;
+    color:#39a6b2;
 }
 
-.contact-form input, .xontact0form textarea {
-    border: 1px;
+.contact-form input, .contact-form textarea {
+    border: 1px solid #024e76;
     display: block;
     padding: 7px 15px;
     font-size: 16px;
