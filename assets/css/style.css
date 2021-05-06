@@ -105,10 +105,11 @@ section {
     border-bottom: 4px solid;
     color: #fce138;
     padding: 0 80px 15px 80px;
-    font weight: normal;
+    font-weight: normal;
     font-size: 42px;
     font-style: italic;
 }
+
 /*End secondary-styles*/
 
 .section-title {
