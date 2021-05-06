@@ -8,3 +8,7 @@ A website that offers fitness training services.
 *CSS
 
 ## Website
+https://asa-grace.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ Asa Grace
