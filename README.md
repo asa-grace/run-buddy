@@ -13,4 +13,4 @@ https://asa-grace.github.io/run-buddy/
 ## Contribution
 Made with ❤️ Asa Grace
 
-### Run Buddy Inc.
+### ©️2019 Run Buddy, Inc
