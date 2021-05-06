@@ -1,5 +1,5 @@
-# Run Buddy
 
+<<<<<<< HEAD
 ## Purpose
 A website that offers fitness training services.
 
@@ -14,3 +14,5 @@ https://asa-grace.github.io/run-buddy/
 Made with ❤️ Asa Grace
 
 ### ©️2019 Run Buddy, Inc
+=======
+>>>>>>> a1380461a11915d92baa4826ccacef9679559b7f
