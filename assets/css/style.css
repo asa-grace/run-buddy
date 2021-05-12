@@ -5,7 +5,6 @@
 }
 
 body {
-    /* more on this crazy alphanumerical value in a minute! */
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
 }
@@ -65,7 +64,9 @@ header nav ul li a:hover {
     border-radius: 15px;
     text-shadow: none;
 }
+/*end header*/
 
+/* Hero Style Start */
 .hero-form button:hover {
     background-color: #39a6b2;
 }
@@ -74,9 +75,7 @@ header nav ul li a:hover {
     color: #fce138;
     background: #39a6b2;
 }
-/*end header*/
 
-/* Hero Style Start */
 .hero {
     background-image:url(../images/hero-bg.jpg);
     background-size: cover;
@@ -90,7 +89,7 @@ header nav ul li a:hover {
 
 .hero-cta {
     width: 35%;
-    text-align: right;
+    display: right;
     margin: 3.5%;
     color: #fff;
     font-size: 18px;
@@ -290,14 +289,6 @@ section {
 
 .trainer-bio p {
     font-size: 17px;
-}
-
-.text-left {
-    text-align: left;
-}
-
-.text-right {
-    text-align: right;
 }
 /*End trainers*/
 
