@@ -8,7 +8,12 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-file:///C:/Users/Asa/Desktop/repos/run-buddy/index.html
+https://asa-grace.github.io/run-buddy/
+
+##
+
+![Run-Buddy](https://user-images.githubusercontent.com/82672759/125161723-1f594500-e141-11eb-8d10-350d2415cccd.jpeg)
+
 
 ## Contribution
 Made with ❤️ by [your name]
